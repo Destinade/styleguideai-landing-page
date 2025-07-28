@@ -1,0 +1,19 @@
+.button {
+	position: absolute;
+	cursor: pointer;
+	top: 427px;
+	left: 313px;
+	width: 482px;
+	height: 133px;
+	padding: 0px 8px;
+	border: 0;
+	box-sizing: border-box;
+	border-radius: 100000px;
+	background-color: #fd754e;
+	color: #ffffff;
+	font-size: 45px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 300;
+	line-height: 58px;
+	outline: none;
+}
