@@ -1,0 +1,79 @@
+.unique-content {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+.unique-title {
+	margin-top: 5vh;
+	margin-left: 10vw;
+	width: 25vw;
+	color: #000000;
+	font-size: 72px;
+	font-family: Poppins;
+	font-weight: 300;
+	line-height: 102px;
+}
+
+.unique-subtitle {
+	color: #000000;
+	font-size: 56px;
+	font-family: Poppins;
+	line-height: 95px;
+	margin-top: 48vh;
+	margin-left: 10vw;
+}
+
+.unique-main-image {
+	margin-top: -67vh;
+	margin-left: 52vw;
+	width: 34vw;
+	height: 64vh;
+	border-radius: 8px;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	max-width: 100%;
+}
+
+.unique-second-image {
+	margin-top: -25vh;
+	margin-left: 75vw;
+	width: 10vw;
+	height: 27vh;
+	border-radius: 8px;
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	max-width: 100%;
+}
+
+@media (max-width: 768px) {
+	.unique-title {
+		font-size: 48px;
+		line-height: 68px;
+		width: 80vw;
+		margin-left: 5vw;
+	}
+
+	.unique-subtitle {
+		font-size: 32px;
+		line-height: 48px;
+		margin-left: 5vw;
+		margin-top: 30vh;
+	}
+
+	.unique-main-image {
+		width: 80vw;
+		height: 40vh;
+		margin-left: 10vw;
+		margin-top: -40vh;
+	}
+
+	.unique-second-image {
+		width: 30vw;
+		height: 20vh;
+		margin-left: 60vw;
+		margin-top: -15vh;
+	}
+}
