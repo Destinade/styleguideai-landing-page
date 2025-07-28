@@ -1,8 +1,8 @@
 .button {
 	position: absolute;
 	cursor: pointer;
-	top: 427px;
-	left: 313px;
+	top: 50vh;
+	left: 28vw;
 	width: 482px;
 	height: 133px;
 	padding: 0px 8px;

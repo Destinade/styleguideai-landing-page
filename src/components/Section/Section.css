@@ -1,0 +1,17 @@
+.section {
+	min-height: 100vh;
+}
+
+.section.gradient {
+	background-image: linear-gradient(to bottom right, #00c4cc, #0a1a44);
+}
+
+.section.white {
+	background: #ffffff;
+}
+
+@media (max-width: 768px) {
+	.section {
+		padding: 1rem;
+	}
+}
