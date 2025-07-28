@@ -57,16 +57,36 @@ const ContactSection = () => {
 					<div className="social-links">
 						<h4>Follow Us</h4>
 						<div className="social-icons">
-							<a href="#" className="social-link">
+							<a
+								href="https://facebook.com/styleassistant"
+								className="social-link"
+								target="_blank"
+								rel="noopener noreferrer"
+							>
 								📘
 							</a>
-							<a href="#" className="social-link">
+							<a
+								href="https://instagram.com/styleassistant"
+								className="social-link"
+								target="_blank"
+								rel="noopener noreferrer"
+							>
 								📷
 							</a>
-							<a href="#" className="social-link">
+							<a
+								href="https://twitter.com/styleassistant"
+								className="social-link"
+								target="_blank"
+								rel="noopener noreferrer"
+							>
 								🐦
 							</a>
-							<a href="#" className="social-link">
+							<a
+								href="https://linkedin.com/company/styleassistant"
+								className="social-link"
+								target="_blank"
+								rel="noopener noreferrer"
+							>
 								💼
 							</a>
 						</div>
